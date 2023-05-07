@@ -57,7 +57,7 @@ const defaultMenu = {
 │╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│☂︎ *Nama Bot:* Zan Botz
+┴│☂︎ *Nama Bot:* HaFlazh-BOT
 ⬡│☂︎ *Baileys:* Multi Device
 ⬡│☂︎ *Platform:* %platform
 ⬡│☂︎ *Type:* Node.Js
