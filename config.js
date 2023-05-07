@@ -38,71 +38,74 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['628812258855', 'Zann', true],
-['628812258855', 'Zan', true],
+['6285651307830', 'Hafizh', true],
+['6281354060278', 'Hafid', true],
 ]
-global.autoketik = true //status auto mengetik (auto typing)
+global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '6283856238788'
-global.nomorown = '628812258855'
-global.nomorown1 = '628812258855'
-global.nomorown2 = '628812258855'
+global.nomorbot = '6285171662264'
+global.nomorown = '6285651307830'
+global.nomorown1 = '6281354060278'
+global.nomorown2 = '6285171662264'
 global.nomorwa = '0'
 global.limitawal = {
 
     premium: "Infinity",
 
-    free: 20
+    free: 10
 
 }
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'zan'
-global.namebot = 'xyzan'
-global.wm = '© xyzan'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'ᴢᴇɴᴏʙᴏᴛᴢ '
+global.author = 'Hafizh'
+global.namebot = 'HaFlazh-BOT'
+global.wm = '© Hafizh'
+global.media = 'https://telegra.ph/file/57c21b3fc6201a53a7d86.png'
+global.wm = 'HaFlazh-BOT '
 global.watermark = wm
-global.wm2 = 'xyzan '
+global.wm2 = 'hfzh.. '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `ᴢqn | XYzan`
-global.stickpack = 'zan'
-global.stickauth = `© xyzan`
+global.titlebot = `Fizh | Hafizh`
+global.stickpack = 'Fizh'
+global.stickauth = `© Hafizh`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'zan'
-global.nameown2 = 'xyzan'
+global.nameown1= 'Fizh'
+global.nameown2 = 'Hafizh'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
-global.lynk = 'https://chat.whatsapp.com/HUSKMik8Lck90NinohIbre'
+global.Linkgc = 'Sek yo'
+global.lynk = 'https://chat.whatsapp.com/JQTVwyYnQNW0ljAncX2Kpf'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/xzyyo_reall'
-global.sgh = 'https://github.com/syarii' //github
-global.sgc = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2' //group whatsapp
-global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/--'
+global.sig = 'https://instagram.com/hfizh22'
+global.sgh = 'https://github.com/hafizhprjct' //github
+global.sgc = 'https://chat.whatsapp.com/JQTVwyYnQNW0ljAncX2Kpf' //group whatsapp
+global.sdc = 'https://discord.gg/XHM8XbqHV6' //discord
+global.snh = 'https://youtube.com/@hafizhflash'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '087819503464'
-global.povo = '-'
-global.pgopay = '087819503464'
-global.plinkaja = '-' //link aja
-global.ppulsa = '087819503464'
-global.ppulsa2 = '085759681568'
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg'
+global.pdana = '085651307830'
+global.povo = '085651307830'
+global.pgopay = '085651307830'
+global.pshopeepay = '085651307830'
+global.plinkaja = '085651307830'
+global.ppulsa = '085651307830'
+global.ppulsa2 = '081354060278'
+global.psaweria = 'saweria.com/HafizhFlash'
+global.ptrakteer = 'https://trakteer.id/HafizhFlash22'
+global.pqris = 'https://telegra.ph/Donasi-Melalui-QRIS-01-22'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 7 Hari IDR 4.000\n├ 20 Hari IDR 13.000\n├ 30 Hari IDR 17.000\n├ 40 Hari IDR 18.000'
+global.ListHargaSewa = '├ 7 Hari IDR 5.000\n├ 20 Hari IDR 15.000\n├ 30 Hari IDR 22.000\n├ 40 Hari IDR 30.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -296,8 +299,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/36b110edaed710a994f05.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/cb959a650af8da8877451.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -526,9 +529,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/xzyyo_reall"
+global.urlnya = "https://www.instagram.com/hfizh22"
 global.dtc = '???? ?????'
-global.phn = '0857-5968-1568'
+global.phn = '0856-5130-7830'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
