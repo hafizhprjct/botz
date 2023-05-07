@@ -53,7 +53,7 @@ const defaultMenu = {
 │╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│☂︎ *Nama Bot:* ×ʏᴢᴀɴ ʀᴇᴀʟʟ
+┴│☂︎ *Nama Bot:* HaFlazh-BOT
 ⬡│☂︎ *Baileys:* Multi Device
 ⬡│☂︎ *Platform:* %platform
 ⬡│☂︎ *Type:* Node.Js
